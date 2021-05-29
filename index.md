@@ -4,7 +4,7 @@
 
 ### ASP.NET Project using C# 
 
-[Shopping Website for ](/sample_page)
+[Shopping Website for School Project ](/sample_page)
 <img src="C:\Users\tsz89\Desktop\Resume\Project Photos\1.jpg">
 
 ---
