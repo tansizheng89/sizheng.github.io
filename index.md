@@ -5,7 +5,7 @@
 ### ASP.NET Project using C# 
 
 [Shopping Website for School Project ](/sample_page)
-<img src="C:\Users\tsz89\Desktop\Resume\Project Photos\1.jpg">
+<img src="images/1.jpg?raw=true">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
