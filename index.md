@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### ASP.NET Project using C# 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shopping Website for ](/sample_page)
+<img src="Desktop\Resume\Project Photos\1.jpg">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
