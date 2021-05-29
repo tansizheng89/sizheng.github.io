@@ -1,11 +1,11 @@
 title: Tan Si Zheng
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Current student of NUTC Learning Hub for Associate Data Analyst and enrolling into NUS Graduate Diploma in System Analysis 2021
+  Current student of NUS Graduate Diploma in System Analysis 2021
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   
 theme: jekyll-theme-minimal
 google_analytics: G-52NHF643V7 # your Google Analytics tracking ID here
